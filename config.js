@@ -18,8 +18,8 @@ global.APIKeys = {
 // Other
 global.Prefix = 'Multi'
 global.modelMenu = 'locButton'
-global.owner = ['6281250085313']
-global.premium = ['6281250085313']
+global.owner = ['6281250085313','6285749433476']
+global.premium = ['6281250085313','6285749433476']
 global.meki = '6281250085313'
 global.ownerNumber = '6281250085313'
 global.packname = 'RIZAL BOT'
